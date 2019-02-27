@@ -1,0 +1,1 @@
+his is a new post in my NER series. I will show you how you can fine-tune the Bert model to do state-of-the art n
