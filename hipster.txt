@@ -1,5 +1,4 @@
-In 2018 we saw the rise of pretraining and fine-tuning in natural language processing. Large neural networks have been trained on general tasks like language modelling and then fine-tuned for classification tasks. One of the latest milestones in this development is the release of BERT. BERT is a model that broke several records for how well models can handle language-based taas
-his is a new post in my NER series. I will show you how you can fine-tune the Bert model to do state-of-the art n
+In 2018 we saw the rise of pretraining and fine-tuning in natural language processing. Large neural networks have been trained s my NER series. I will show you how you can fine-tune the Bert model to do state-of-the art n
 
 
 asdhis is a new post in my NER series. I will show you how you can fine-tune the Bert model to do state-of-the art n
