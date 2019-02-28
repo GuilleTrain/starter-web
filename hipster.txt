@@ -1,4 +1,4 @@
-In 2018 we saw the rise of pretraining and fine-tuning in natural language processing. Large neural networks have been trained s my NER series. I will show you how you can fine-tune the Bert model to do state-of-the art n
+dasdasIn 2018 we saw the rise of pretraining and fine-tuning in natural language processing. Large neural networks have been trained s my NER series. I will show you how you can fine-tune the Bert model to do state-of-the art n
 
 
 asdhis is a new post in my NER series. I will show you how you can fine-tune the Bert model to do state-of-the art n
